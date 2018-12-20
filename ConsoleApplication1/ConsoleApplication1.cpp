@@ -13,4 +13,5 @@ int main(array<System::String ^> ^args)
 	3
 	4
 	5
+	6
 }
